@@ -24,8 +24,4 @@ Hi! I'm **Nikita**, a passionate and enthusiastic Computer Science Engineering s
 
 ![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitaavv-del&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitaavv-del&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaavv-del&layout=compact&theme=radical)
-
 > 🌱 *“Strive to build not just code, but a better digital world.”*
