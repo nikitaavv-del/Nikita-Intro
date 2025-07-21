@@ -1,4 +1,4 @@
-# 💻 Nikita | B.Tech CSE Student
+# 👋 Hey! I am Nikita Verma
 
 Hi! I'm **Nikita**, a passionate and enthusiastic Computer Science Engineering student pursuing a B.Tech degree. I enjoy exploring new technologies, building fun projects, and constantly learning to improve my problem-solving and coding skills.
 
@@ -18,10 +18,8 @@ Hi! I'm **Nikita**, a passionate and enthusiastic Computer Science Engineering s
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [nikita@example.com](mailto:nikita@example.com)
-- 💼 LinkedIn: [linkedin.com/in/nikita](https://linkedin.com/in/nikita)
-- 🗂️ Portfolio: [yourportfolio.com](https://yourportfolio.com) *(if available)*
-
+- 📧 Email: [nikitav130353@gmail.com](mailto:nikitav130353@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/nikita-verma-7722b6351](https://www.linkedin.com/in/nikita-verma-7722b6351/)
 ---
 
 > 🌱 *“Strive to build not just code, but a better digital world.”*
